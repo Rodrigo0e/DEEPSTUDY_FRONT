@@ -89,21 +89,14 @@ DEEPSTUDY-BACKEND/
 
 ## Features Implementadas
 
-- ✅ Autenticação (Login/Registro)
-- ✅ Criar sessões de estudo
-- ✅ Ver revisões de hoje
-- ✅ Marcar revisões como concluídas
-- ✅ Filtrar revisões por status
-- ✅ Dashboard com contadores
-- ✅ Responsivo
+- Autenticação (Login/Registro)
+- Criar sessões de estudo
+- Ver revisões de hoje
+- Marcar revisões como concluídas
+- Filtrar revisões por status
+- Dashboard com contadores
+- Responsivo
 
-## Próximas melhorias
-
-- [ ] Algoritmo smarter de Spaced Repetition
-- [ ] Notificações via email
-- [ ] Exportar dados
-- [ ] App mobile
-- [ ] Estatísticas avançadas
 
 ## Deploy
 
