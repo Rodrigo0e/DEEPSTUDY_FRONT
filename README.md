@@ -103,7 +103,3 @@ DEEPSTUDY-BACKEND/
 O frontend está deployado na **Vercel**: https://deepstudy-silk.vercel.app
 
 Cada push pra main faz deploy automático.
-
-## Licença
-
-MIT
